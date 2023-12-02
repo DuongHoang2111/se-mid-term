@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T09:26:15.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CStdmqAEYLM7TluMXrPK" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T12:20:08.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4CdVRj6KWptHmwBRdgey" version="22.1.5" type="github">
   <diagram name="Trang-1" id="Hy0rAFqf_6y8TMcfg7-v">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,16 +8,10 @@
           <mxGeometry x="210.01" y="60" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="pbXhxOen0258rfhh_EyE-2" value="Create, change a form that save client information and send to the manager" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.01" y="230" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pbXhxOen0258rfhh_EyE-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351.13" y="420" width="177.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pbXhxOen0258rfhh_EyE-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351.13" y="330" width="177.75" height="60" as="geometry" />
+          <mxGeometry x="260.01" y="330" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pbXhxOen0258rfhh_EyE-5" value="Book a room" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346.13" y="150" width="177.75" height="60" as="geometry" />
+          <mxGeometry x="346.13" y="195" width="177.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbXhxOen0258rfhh_EyE-6" value="Booking Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="300" height="30" as="geometry" />
@@ -26,10 +20,19 @@
           <mxGeometry x="70" y="255" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbXhxOen0258rfhh_EyE-8" value="Receiptionist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="760" y="255" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbXhxOen0258rfhh_EyE-9" value="Seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="340" width="30" height="60" as="geometry" />
+        <mxCell id="pbXhxOen0258rfhh_EyE-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbXhxOen0258rfhh_EyE-7" target="pbXhxOen0258rfhh_EyE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.922;entryY=0.251;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbXhxOen0258rfhh_EyE-8" target="pbXhxOen0258rfhh_EyE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
