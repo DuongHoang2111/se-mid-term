@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T13:30:59.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JhUekRfQJUyTDw09G3Zv" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T13:33:39.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yloAAL-RhpYPdHgRkRoa" version="22.1.5" type="github">
   <diagram name="Trang-1" id="Hy0rAFqf_6y8TMcfg7-v">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,30 @@
         </mxCell>
         <mxCell id="pbXhxOen0258rfhh_EyE-24" value="See if the person is in blacklist" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="100" width="177.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.394;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="pbXhxOen0258rfhh_EyE-24" target="pbXhxOen0258rfhh_EyE-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-27" value="See result of the request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="177.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pbXhxOen0258rfhh_EyE-14" target="pbXhxOen0258rfhh_EyE-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbXhxOen0258rfhh_EyE-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="pbXhxOen0258rfhh_EyE-14" target="pbXhxOen0258rfhh_EyE-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
