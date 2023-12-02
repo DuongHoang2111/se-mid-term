@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T15:20:53.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UuN6cNB1991EUaTQItdi" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T15:37:49.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qeLXTDljCejZ0OgMQzwD" version="22.1.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="e2z9AnGuoBhqK3iURth1-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="140" y="120" width="570" height="570" as="geometry" />
+          <mxGeometry x="157.5" y="80" width="570" height="570" as="geometry" />
         </mxCell>
         <mxCell id="e2z9AnGuoBhqK3iURth1-2" value="Manage Room Information (Change,delete,add room)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290.25" y="210" width="277.5" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="300" y="120" width="285" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e2z9AnGuoBhqK3iURth1-6" value="Create, change, post report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290.25" y="600" width="277.75" height="60" as="geometry" />
+          <mxGeometry x="290" y="500" width="277.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2z9AnGuoBhqK3iURth1-7" value="Rooms Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="300" width="277.75" height="60" as="geometry" />
