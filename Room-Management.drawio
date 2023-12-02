@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2023-12-02T08:26:23.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="q80asFqzmFoeWt70D4d4" version="22.1.5" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e2z9AnGuoBhqK3iURth1-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="198.88" y="100" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-2" value="Manage Room Information (Change,delete,add room)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="210" width="277.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-5" value="Room Management System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="285" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-6" value="Create report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="390" width="277.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-7" value="Check Room Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="300" width="277.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-8" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-10" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="290" y="500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.052;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="e2z9AnGuoBhqK3iURth1-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="293.0289677813314" y="313.7685306321712" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-14" value="See Report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="480" width="277.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.982;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="e2z9AnGuoBhqK3iURth1-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="330" as="sourcePoint" />
+            <mxPoint x="750" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="e2z9AnGuoBhqK3iURth1-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="330" as="sourcePoint" />
+            <mxPoint x="760" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="e2z9AnGuoBhqK3iURth1-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="330" as="sourcePoint" />
+            <mxPoint x="740" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2z9AnGuoBhqK3iURth1-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="e2z9AnGuoBhqK3iURth1-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="330" as="sourcePoint" />
+            <mxPoint x="750" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
