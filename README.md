@@ -1,6 +1,9 @@
 # se-mid-term
-Bài kiểm tra giữa kì môn Công Nghệ Phần Mềm (Sinh viên: Hoàng Thái Dương)
+Bài kiểm tra giữa kì môn Công Nghệ Phần Mềm 
 
+* SINH VIÊN:
+- Hoàng Thái Dương
+- Mã SV :21001540
 * GOALS:
 - Tạo trải nghiệm tốt cho khách hàng, nhân viên của khách sạn khi sử dụng giao diện
 - Đảm bảo hệ thống ổn định
